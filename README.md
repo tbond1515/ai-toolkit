@@ -1,0 +1,1 @@
+This is a ready to deploy AI toolkit for real estate agents. Includes 8 AI-powered writing tools covering listings, client communication, and lead generation. Powered by Claude AI - no backend required, runs entirely in the browser.
